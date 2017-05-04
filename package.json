@@ -1,0 +1,23 @@
+{
+  "name": "tag-it",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eMahtab/tag-it.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eMahtab/tag-it/issues"
+  },
+  "homepage": "https://github.com/eMahtab/tag-it#readme",
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
+}
